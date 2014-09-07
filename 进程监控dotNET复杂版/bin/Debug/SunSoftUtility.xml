@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SunSoftUtility
+</name>
+</assembly>
+<members>
+<member name="M:SunSoftUtility.MultiThread.preInstanceCheck">
+	<summary>
+ 检测当前程序进程是否是程序的第二次运行
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
